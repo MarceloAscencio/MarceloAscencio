@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👩🏻‍💻 Marcelo Ascencio
 
-<!--
-**MarceloAscencio/MarceloAscencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor de Software`**
 
-Here are some ideas to get you started:
+Olá! Meu nome é Marcelo Ascencio, tenho 31 anos e sou formado em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e estou sempre buscando aprimorar meus conhecimentos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tenho experiência em desenvolvimento front-end com HTML, CSS, Bootstrap e JavaScript.
+⚙️ Atualmente, meu foco principal é o back-end, trabalhando com C# e ASP.NET Core.
+
+Estou sempre aberto a novas oportunidades, trocas de conhecimento e desafios que me ajudem a crescer como desenvolvedor.
+
+📫 Entre em contato: [Seu e-mail ou LinkedIn]
+
+<p align="left">
